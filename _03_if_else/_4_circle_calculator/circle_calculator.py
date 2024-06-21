@@ -10,4 +10,4 @@ import tkinter as tk
 
 if __name__ == '__main__':
 #ask user if they would calculate the area of the circle
-v=simpledialog.askstring(title=None,Prompt=)
+ v=simpledialog.askstring(title=None, Prompt="Would you like to calculate the area of the circle")

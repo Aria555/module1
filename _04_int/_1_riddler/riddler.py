@@ -11,3 +11,10 @@
 * After all the riddles have been asked, tell the user how many they got
   correct
 """
+from tkinter import messagebox, simpledialog, Tk
+
+if __name__ == '__main__':
+
+    simpledialog.askstring(title=None,prompt="enter three riddles")
+
+    
